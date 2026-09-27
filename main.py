@@ -1,0 +1,1 @@
+print("Chess Style Fingerprint")
